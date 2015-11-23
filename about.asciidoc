@@ -41,6 +41,8 @@ https://github.com/chriskempson/tomorrow-theme[tomorrow theme],
 https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/#download-primary[Fira Mono
 font] and https://github.com/sensorflo/adoc-mode/wiki[adoc-mode] to write.
 
-=== About the Author
+=== গ্রন্থকার পরিচিতি 
 
-See http://swaroopch.com/about/
+লেখক পরিচিতি http://swaroopch.com/about/
+অনুবাদক পরিচিতি http://www.in2rafi.com/about
+
